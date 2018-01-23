@@ -1,6 +1,10 @@
+# about Contentful
+
+[Contentful](https://www.contentful.com/) provides a content infrastructure that enables teams to power content in any digital product.
+
 # about contentful-userland
 
-This is an organization for projects that meet the following criteria:
+This is an organization for projects in the [Contentful](https://www.contentful.com/) that meet the following criteria:
 
 * Want to use http://openopensource.org/ governance
 * Would benefit from having neutral ownership (e.g. anyone can become a maintainer)
