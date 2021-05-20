@@ -1,6 +1,6 @@
 # about Contentful
 
-[Contentful](https://www.contentful.com/) provides a content infrastructure that enables teams to power content in any digital product.
+[Contentful](https://www.contentful.com/) provides a content platform that enables teams to power content in any digital product.
 
 # about contentful-userland
 
